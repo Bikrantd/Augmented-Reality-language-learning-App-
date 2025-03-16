@@ -25,3 +25,5 @@ There are only two MonoBehaviour scripts:
 - *WebCamDetector.cs* which takes texture from the camera and runs the model.
 - *OnGUICanvasRelativeDrawer.cs* required by the previous script to render text.
 
+![ui](https://github.com/user-attachments/assets/3fae2fd4-4c3f-48ee-9677-41440a53b43f)
+![output](https://github.com/user-attachments/assets/a276359c-0bb3-4cac-bc32-0fe6936ebe70)
